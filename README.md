@@ -17,10 +17,8 @@ When we finish our branches I will merge them, if you finish faster than others,
 We will keep moving with the branches until I (Jay Zen) finish with the master copy.
 As soon as we all finish with a branch, I will merge them all, then I will delete them and we will move on. ex: We finish branch one, we help the rest finish, then I merge them, then I delete the branches, and then we move on to branch 2.
 
-If you get a few tasks, just name the branches like this, [Name] [Task] [No.]. Ex: JayZen NamingUpgrades 4
-
-# Will Be Added.
-
+If you get a few tasks, just name the branches like this, [Name] [Task] [No.]. Ex: JayZen UpgradeFunctions. 4
+MAKE SURE TASK NAME IS DESCRIPTIVE!!!
 I will assign each of you a few tasks and you will work on those on your branches.
 
 -------------------------------------------------------
