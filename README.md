@@ -4,7 +4,6 @@ A repository for my friends and I to discuss our first game.
 # Disclaimer
 More Instructions WILL be added.
 
-# Final Copy
 "master" will be our final copy
 
 # Important News
